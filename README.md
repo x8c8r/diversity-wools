@@ -15,5 +15,10 @@ Make another file (eg. diversity_white.mcfunction)
 Copy and paste commands from any of the files(except for diversity_final)
 Edit colors and text. (eg. instead of red_wool, change it to white_wool)
 
+# How to install:
+Go to your world's folder. (press win + r, type %appdata%, go to .minecraft/saves, and you will find your world name)
+Copy the folder in Datapacks folder in your world's folder.
+When you need to execute checking for wool - type /function(without slash in command block) fl1p:diversity_wool. (eg. /function fl1p:diversity_lime)
+
 @Fl1pNatic on twitter.
 fl1pnatic.github.com
