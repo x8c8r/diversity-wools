@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"All ","bold":true,"color":"red"},{"text":"the ","bold":true,"color":"blue"},{"text":"wools ","bold":true,"color":"green"},{"text":"are ","bold":true,"color":"yellow"},{"text":"co","bold":true,"color":"red"},{"text":"lle","bold":true,"color":"green"},{"text":"cte","bold":true,"color":"blue"},{"text":"d!","bold":true,"color":"yellow"}]
